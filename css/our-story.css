@@ -36,6 +36,7 @@
   line-height: 27px;
   margin-bottom: 30px;
   letter-spacing: 0.17 px;
+  max-width: 387px;
 }
 
 .text__color {
@@ -47,6 +48,7 @@
   line-height: 23px;
   font-weight: 400;
   letter-spacing: 0.2px;
+  max-width: 387px;
 }
 
 /* Images */

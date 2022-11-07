@@ -31,7 +31,5 @@
 .build__link:hover {
   background-color: #007fb2;
   box-shadow: 0 3px 15px #00f7ff80;
-  background-color: #48555b;
-  transform: translateY(-3px);
   transition: 0.3s;
 }
