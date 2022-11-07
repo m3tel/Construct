@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Open Sans" sans-serif;
+  font-weight: 700;
+  color: #48555b;
+}
+
+section {
+  height: 500px;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #48555b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00a4e5;
+}

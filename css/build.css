@@ -1,0 +1,37 @@
+.build {
+  background: url("../img/bgtouch.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 115px;
+}
+
+.build__wrapper {
+  text-align: center;
+}
+
+.build__title {
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0.15px;
+  margin-bottom: 46px;
+  padding-top: 120px;
+}
+
+.build__link {
+  background-color: #00a4e5;
+  text-decoration: none;
+  padding: 11px 26px;
+  color: #fff;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.5px;
+}
+
+.build__link:hover {
+  background-color: #007fb2;
+  box-shadow: 0 3px 15px #00f7ff80;
+  background-color: #48555b;
+  transform: translateY(-3px);
+  transition: 0.3s;
+}
